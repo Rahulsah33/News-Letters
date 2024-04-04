@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Ecuador's youngest mayor Brigitte García shot dead",
+            "description": "Brigitte García, 27, is the latest politician to be killed amid ongoing gang violence.",
+            "url": "https://www.bbc.co.uk/news/world-latin-america-68655323",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/168C8/production/_133006329_yqpchxca_400x400.jpg",
+            "publishedAt": "2024-03-25T17:37:14.7679832Z",
+            "content": "Ecuador's youngest mayor, Brigitte García, has been shot dead.\r\nThe 27-year-old and her press officer were found dead in a car on Sunday in the town of San Vicente, where she had won the mayoral elec… [+2184 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Shamima Begum loses initial bid to challenge citizenship removal at Supreme Court",
+            "description": "Ms Begum is denied permission to appeal the removal of her British citizenship at the Supreme Court.",
+            "url": "https://www.bbc.co.uk/news/uk-68655130",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/14992/production/_133007348_download.png",
+            "publishedAt": "2024-03-25T17:22:17.1271437Z",
+            "content": "Shamima Begum has lost an initial bid to challenge the removal of her British citizenship at the Supreme Court.\r\nThe 24-year-old had requested permission from the Court of Appeal to take her case to … [+2602 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Millions of Americans caught up in Chinese hacking plot - US",
+            "description": "Seven Chinese nationals have been charged over a \"sinister\" hacking plot, the justice department says.",
+            "url": "https://www.bbc.co.uk/news/world-us-canada-68659095",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/83B3/production/_115651733_breaking-large-promo-nc.png",
+            "publishedAt": "2024-03-25T17:22:13.5499072Z",
+            "content": "Millions of Americans' online accounts have been caught up in a \"sinister\" Chinese hacking plot that targeted US officials, the justice department and FBI said on Monday. \r\nSeven Chinese nationals ha… [+1187 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Judge agrees to reduce Trump fraud bond to $175m",
+            "description": "The former president had previously said he was unable to secure a bond from a private company for the full $464m sum.",
+            "url": "https://www.bbc.co.uk/news/world-us-canada-68659100",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/0E83/production/_115651730_breaking-promo-976.png",
+            "publishedAt": "2024-03-25T16:07:23.4588086Z",
+            "content": "A judge in New York has granted Donald Trump's request to pause his $464m civil fraud judgement, giving him 10 days to put up a reduced sum of $175m.\r\nThe former president's legal team had previously… [+295 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "UN Security Council resolution calls for Gaza ceasefire",
+            "description": "UN Security Council passes resolution calling for an \"immediate ceasefire\" in Gaza, as US shifts position by abstaining from vote",
+            "url": "https://www.bbc.co.uk/news/world-middle-east-68658415",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/83B3/production/_115651733_breaking-large-promo-nc.png",
+            "publishedAt": "2024-03-25T15:07:19.3648197Z",
+            "content": "The UN Security Council has passed a resolution calling for an \"immediate ceasefire\" in Gaza, after the US refrained from vetoing the measure in a change from its previous position.\r\nThe text also de… [+572 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Boeing chief executive to leave at end of 2024",
+            "description": "Dave Calhoun, the boss of the troubled planemaker, is standing down, the company has announced.",
+            "url": "https://www.bbc.co.uk/news/business-68656925",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/83B3/production/_115651733_breaking-large-promo-nc.png",
+            "publishedAt": "2024-03-25T12:37:13.834951Z",
+            "content": "Boeing's chief executive Dave Calhoun will leave the planemaker by the end of this year, the company has said.\r\nBoeing also said that the boss of its commercial airlines division will retire immediat… [+247 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Olivia Colman: I'd be paid more if I was Oliver, actress says",
+            "description": "The Oscar-winning British actress says Hollywood would pay more if she was a man called Oliver.",
+            "url": "https://www.bbc.co.uk/news/entertainment-arts-68654311",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/9E02/production/_133005404_olivia_colman_getty_2.jpg",
+            "publishedAt": "2024-03-25T10:52:20.6317199Z",
+            "content": "Oscar-winning British actress Olivia Colman has said she would be paid \"a lot more\" for her films if she was a man.\r\n\"I'm very aware that if I was Oliver Colman, I'd be earning a... lot more than I a… [+2830 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC Sport",
+            "title": "US beat Mexico to win Concacaf Nations League",
+            "description": "The United States beat Mexico to claim the Concacaf Nations League title in a game that was halted three times because of discriminatory chanting.",
+            "url": "https://www.bbc.co.uk/sport/football/68653786",
+            "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/16C38/production/_133004239_gettyimages-2111030711.jpg",
+            "publishedAt": "2024-03-25T10:22:19.9504362Z",
+            "content": "Tyler Adams scored his second goal for the USA in the win against Mexico\r\nTyler Adams and Giovanni Reyna scored as the United States beat Mexico to win the Concacaf Nations League.\r\nThe game in Arlin… [+1418 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "The Jewish settlers who want to build homes in Gaza",
+            "description": "They see an opportunity to push for a return of Jewish settlements to the Palestinian territory.",
+            "url": "https://www.bbc.co.uk/news/world-middle-east-68650815",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/5B18/production/_133002332_settler_flag.jpg",
+            "publishedAt": "2024-03-24T23:52:14.2873483Z",
+            "content": "Who wouldn't want a house on the beach? For some on Israel's far-right, desirable beachfront now includes the sands of Gaza.\r\nJust ask Daniella Weiss, 78, the grandmother of Israel's settler movement… [+6881 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Moscow attack: Russia charges two men with act of terrorism",
+            "description": "Men appear in a Moscow court accused of an act of terrorism at Crocus City Hall, where 137 people were killed.",
+            "url": "https://www.bbc.co.uk/news/world-europe-68652380",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/155EA/production/_133003578_twoplate.png",
+            "publishedAt": "2024-03-24T22:37:16.3337961Z",
+            "content": "Russia has charged two of four suspects it says carried out the attack in a Moscow concert hall that killed at least 137 people.\r\nDalerdzhon Mirzoyev and Saidakrami Murodali Rachabalizoda were pictur… [+467 chars]"
+        }
+    ]
+}
